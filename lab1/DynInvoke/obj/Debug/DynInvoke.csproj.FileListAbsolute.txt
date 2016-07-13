@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\bin\Debug\DynInvoke.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\bin\Debug\DynInvoke.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\bin\Debug\DynInvoke.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\obj\Debug\DynInvoke.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\obj\Debug\DynInvoke.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynInvoke\obj\Debug\DynInvoke.pdb
