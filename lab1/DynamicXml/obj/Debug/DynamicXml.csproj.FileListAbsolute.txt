@@ -4,3 +4,9 @@ C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\Dynam
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.csprojResolveAssemblyReference.cache
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.exe
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\bin\Debug\DynamicXml.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\bin\Debug\DynamicXml.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\bin\Debug\DynamicXml.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab1-Advanced\lab1\DynamicXml\obj\Debug\DynamicXml.csprojResolveAssemblyReference.cache
